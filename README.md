@@ -1,6 +1,6 @@
 # voters_analysis
-## Goal
-Analyzing polling stations and voters' addresses
+## **Goal**
+*Analyzing polling stations and voters' addresses*
 ### Data
 [lien site](https://www.data.gouv.fr/datasets/bureaux-de-vote-et-adresses-de-leurs-electeurs)
 
